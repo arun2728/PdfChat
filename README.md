@@ -1,2 +1,3 @@
-# PDFChat
+# PDFChat - Chat with any PDF!
+
 
